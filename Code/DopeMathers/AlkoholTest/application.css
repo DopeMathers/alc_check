@@ -1,0 +1,33 @@
+.root { 
+	-fx-background-image: url('/images/background.png'); /* ../ geht einen Ordner zur�ck .../ geht einen vor??? */
+	-fx-background-size: cover;
+    -fx-accent: #1e74c6;
+    -fx-focus-color: -fx-accent;
+    -fx-base: #373e43;
+    -fx-control-inner-background: derive(-fx-base, 35%);
+    -fx-control-inner-background-alt: -fx-control-inner-background ;
+    -fx-text-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+}
+
+.text-field{
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 3 , 3 );
+	
+}
+.button{
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 3 , 3 );
+}
+.choice-box{
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 3 , 3 );
+}
+.progress-bar{
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 3 , 3 );
+}
+.check-box{
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 5 , 5 );
+}
+.label{
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 4 , 4 );
+}
+.text-field .text{
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 2 );
+}

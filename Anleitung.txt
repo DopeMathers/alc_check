@@ -1,0 +1,47 @@
+@DopeMathers
+:AlkoholCheck
+
+Benutzung der App:
+
+Willkommens Fenster:
+Beim ersten Start erscheint ein Willkommens Fenster, hier kannst du die gewünschte Sprache einstellen (Deutsch oder Englisch). Außerdem kannst du wählen ob 
+der Willkommens Dialog erneut erscheinen soll (keine Sorge, du hast die Möglichkeit ihn jederzeit über die Menüleiste aufzurufen). Zusätzlich kannst du die gewählte Sprache
+als Standartsprache einstellen, hast du deine Auswahl getroffen reicht ein klick auf bestätigen und das Hauptfenster taucht auf. 
+
+Menüleiste: Sprache, Schließen, Über... 
+
+
+Haupt Fenster: 
+Links Oben siehst du das aktuelle Datum sowie Uhrzeit, direkt darunter befindet sich eine visuelle Anzeige, diese zeigt dir dein Alkoholpegel an. 
+Darunter befinden sich drei Einstellunge, die Zeit die seit deinem ersten Getränk vergangen ist wählst du aus der ersten Liste aus, im Feld danach gibst du dein 
+Gewicht preis (bitte sei ehrlich, dein Blutalkohol wird anhand deines Gewichts berechnet). Darunter wählst du aus der Liste dein Geschlecht aus (dies hat Auswirkungen auf dein BAK
+da Männer weniger Alkohol aufnehmen als Frauen). Darunter siehst du 5 mal 3 Felder, in die erste Reihe trägst du die Menge von Getränken ein, in die mittlere Reihe kommt kommt
+die Getrunkene Menge in ML pro Getränk und in die rechte Spalte der entsprechende Alkoholgehalt. Hast du alles korrekt eingetragen kannst du mit Enter bestätigen oder per druck auf berechnen.
+Die korrekten Felder werden grün makiert, sollte eine Eingabe falsch sein erscheint in diesem Feld "Falsche Eingabe" und der Rahmen färbt sich Rot. 
+Auf der rechten oberen Seite werden dir die Auswirkungen deines Blutalkoholgehalts angezeigt, zudem ein kleines Bild und direkt darunter dein Blutalkoholwert (ACHTUNG: Es handelt sich immer um ca. Werten, außerdem verträgt jeder Alkohol anderst!)
+Unten links wird dir immer noch ein Tipp angezeigt. Wenn du möchtest kannst du mit klick auf in TXT Datei speichern alles abspeichern. (Es wird eine Datei
+alcohol_activities.txt auf deinem Desktop erstellt. Mit jedem erneuten druck auf den Button schreibst du eine neue Zeile in diese Datei). 
+Über die Menüleiste kannst du dir ein über Fenster und ein Informations Fenster anzeigen lassen. 
+
+Menüleiste: Willkommens Dialog, Informationen, Sprache, Schließen, Über...
+
+
+Informations Fenster:
+Hier werden dir Informationen angezeigt, wie zum Beispiel sich der Blutalkoholpegel berechnet. 
+
+Menüleiste: Willkommens Dialog, Sprache, Schließen
+
+
+Über Fenster: 
+Hier werden dir Informationen zu App angezeigt, Entwickler, Version, Release, etc.
+
+Menüleiste: Willkommens Dialog, Sprache, Schließen
+
+
+
+
+Allgemein: Die Sprache kann jederzeit in der Menüleiste umgestellt werden. 
+
+@DopeMathers first project. 
+mail: info@dopemathers.de
+GitHub: DopeMathers
