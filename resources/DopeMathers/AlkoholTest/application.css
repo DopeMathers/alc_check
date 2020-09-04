@@ -1,0 +1,39 @@
+.root { 
+	-fx-background-image: url('/images/background.png'); /* ../ geht einen Ordner zur�ck .../ geht einen vor??? */
+	-fx-background-size: cover;
+    -fx-accent: #1e74c6;
+    -fx-focus-color: -fx-accent;
+    -fx-base: #0C1821;
+    -fx-control-inner-background: derive(-fx-base, 35%);
+    -fx-control-inner-background-alt: -fx-control-inner-background ;
+    -fx-text-inner-color: #CCC9DC;
+    -fx-text-effect: dropshadow( gaussian , black , 8 , 0.0 , 2 , 0 );
+}
+
+.text-field{
+	-fx-effect: dropshadow( gaussian , black , 8 , 0.0 , 3 , 3 );
+	-fx-font-weight: bold;
+}
+.button{
+	-fx-effect: dropshadow( gaussian , black , 8 , 0.0 , 3 , 3 );
+	-fx-font-weight: bold;
+}
+.choice-box{
+	-fx-effect: dropshadow( gaussian , black , 8 , 0.0 , 3 , 3 );
+	-fx-font-weight: bold;
+}
+.progress-bar{
+	-fx-effect: dropshadow( gaussian , black , 8 , 0.0 , 3 , 3 );
+}
+.check-box{
+	-fx-effect: dropshadow( gaussian , black , 8 , 0.0 , 5 , 5 );
+	-fx-font-weight: bold;
+}
+.label{
+	-fx-effect: dropshadow( gaussian , black , 8 , 0.0 , 4 , 4 );
+	-fx-font-weight: bold;
+}
+.text-field .text{
+	-fx-font-weight: bold;
+	-fx-effect: dropshadow( gaussian , black , 8 , 0.0 , 2 , 2 );
+}
